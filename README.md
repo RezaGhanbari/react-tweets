@@ -7,7 +7,7 @@
 
 ## How to Use
 
-1. Clone the repo: `https://github.com/RezaGhanbari/react-tweets.git`
+1. Clone the repo: `https://github.com/RezaGhanbari/react-tweets`
 2. Go into folder: `cd react-tweets`
 3. Install dependencies: `npm install`
 4. Create local MongoDB database called **react-tweets** (configured in `server.js`)
