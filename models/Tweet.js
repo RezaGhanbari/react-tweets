@@ -9,7 +9,7 @@ var mongoose = require('mongoose');
 // Create a new schema for our tweet data
 var schema = new mongoose.Schema({
 
-    twid       :string,
+    twid       : String,
     active     : Boolean,
     author     : String,
     avatar     : String,
