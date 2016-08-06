@@ -1,10 +1,11 @@
 /*
  ---------------------------------------------------------------------------------------------
+                                                                                             |
  In the code below, we have two specific requirements:                                       |
- For our index route, we want to return a full page                                          |
- rendered from our React source For our page route,                                          |
- we want to return a JSON string containing                                                  |
- additional tweets based upon our params.                                                    |
+ - For our index route, we want to return a full page                                        |
+    rendered from our React source                                                           |
+ - For our page route, we want to return a JSON string containing                            |                     |
+    additional tweets based upon our params.                                                 |
                                                                                              |
  --------------------------------------------------------------------------------------------|
                                                                                              |
