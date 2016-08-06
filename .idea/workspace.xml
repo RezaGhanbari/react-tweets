@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ed4be023-9a9d-418c-a7e9-8a10566aeb05" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/Loader.react.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/NotificationBar.react.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="react-tweets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +46,9 @@
       <file leaf-file-name="Loader.react.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/components/Loader.react.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -269,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1470427342961</updated>
       <workItem from="1470427344474" duration="5371000" />
-      <workItem from="1470474805337" duration="13295000" />
+      <workItem from="1470474805337" duration="13457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18666000" />
+    <option name="totallyTimeSpent" value="18828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="79" y="52" width="1287" height="716" extended-state="0" />
@@ -465,11 +461,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/Loader.react.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="162">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
